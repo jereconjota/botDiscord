@@ -1,2 +1,3 @@
 # Bot de discord
-### con comandos para pedir fotos de gatos y perros
+### Respuestas a determinados comandos 
+('/ping', '/server', '/user', '/mascotas')
